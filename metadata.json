@@ -1,0 +1,6 @@
+{
+  "name": "AI Reel Maker",
+  "description": "Automatically create viral Instagram-style reels with AI captions, beat-synced transitions, templates, and music timing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
